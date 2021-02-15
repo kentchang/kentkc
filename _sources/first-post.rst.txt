@@ -1,0 +1,25 @@
+
+.. Comedic Borderline post example, created by `ablog start` on Feb 13, 2021.
+
+.. post:: Feb 13, 2021
+   :tags: ceremonial
+
+The Inaugural Post
+==================
+
+Welcome to this blog, where Kent's unarchivable thougts reside. 
+
+I've been experimenting different blogging platforms since I was 12 (I am 27 as the time of writing), and none of them stuck through. We'll see if this one will eventually work. In my own diagnosis, I wasn't happy with my blogging systems in the past because:
+
+* **If it's convenient to blog, it's hard to customize and maintain.** Both WordPress and Gatsby require constant hacking. And I hate having to deal with any sort of database server. 
+* **If it's easy to customize and maintain, the writing process tends to be overly complex.** The problem with my last blog, essetialy a React app, is I had to take care of the server side stuff (Next.js), so writing a post would invovlve working first on my laptop, then on the server, and then build and restart. I'm dizzy.
+
+
+What's different this time
+--------------------------
+
+* This blog is powered by the `ablog <https://ablog.readthedocs.io/>`_ plugin for Sphinx---i.e., it's a static site generator. HTML slaps!
+* I forked ablog and basically managed to implement everything I want for now. The environment is super portable, so is its build. I'm hosting the site on github.
+* I now write in reStructuredText---way more robust than Markdown.
+
+Stay tuned!

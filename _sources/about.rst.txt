@@ -1,0 +1,32 @@
+
+.. _about:
+
+About
+============================
+
+Here's a little bit about Kent:
+
+* "'cause it's a long, long journey—" [#]_ 
+* “Confucius, we are approaching the capital,” says Lord Jing. [#]_ 
+* "I hate to seem inquisitive, but would you kindly inform me who I am?" [#]_ 
+* ". . . in the yet unbroken part . . ." [#]_ 
+* ":raw-html:`<span style="display:inline-block; width: 15px;"></span>` Shantih :raw-html:`<span style="display:inline-block; width: 15px;"></span>` Shantih :raw-html:`<span style="display:inline-block; width: 15px;"></span>` Shantih :raw-html:`<span style="display:inline-block; width: 15px;"></span>`" [#]_ 
+* "Raffiniert ist der ：Herr Gott， aber Boshaft ist Es nicht" [#]_ 
+* "I may not be wise—" [#]_ 
+
+:raw-html:`<hr />`
+
+:raw-html:`<div class="footnotes">`
+
+.. [#] Lyrics to Angela Chang's "Journey."
+.. [#] My translation to a line in Lo Chih-Cheng's "Inquiring Dan."
+.. [#] Oscar Wilde's *The Importance of Being Earnest*.
+.. [#] Lyrics to Mayday's "The Yet Unbroken Place in My Heart."
+.. [#] The last line in T.S. Eliot's *The Wasteland*.
+.. [#] From Yang Mu's "In Memoriam Albert Einstein."
+.. [#] Lyrics to Ben Platt's "Run Away."
+
+:raw-html:`</div>`
+
+.. role:: raw-html(raw)
+   :format: html
