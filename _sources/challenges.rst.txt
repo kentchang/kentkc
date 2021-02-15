@@ -1,0 +1,16 @@
+
+.. _challenges:
+
+Challenges
+============================
+
+Ongoing
+-----------------------
+
+:ref:`out-of-comfort-zone-reading-challenge`:
+
+* **March 2021**: C. G. Jung, *Psychological Types* (1921).
+
+
+.. role:: raw-html(raw)
+   :format: html

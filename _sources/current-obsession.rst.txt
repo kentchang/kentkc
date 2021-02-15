@@ -1,0 +1,43 @@
+
+.. _current-obsession:
+
+Current Obsession
+============================
+
+February--July 2021
+-----------------------
+
+* *This Is Us* (:ref:`this-is-us-quotes`)
+
+July 2021--September 2021
+----------------------------
+
+* *Frasier* 
+
+September--November 2021
+-------------------------
+
+* Ben Platt's *Reverie* (:ref:`ben-platt-reverie`) 
+
+November 2021--August 2022
+---------------------------
+
+* Cinco Paul and Ken Daurio, *Schmigadoon!* & Adele, *30*
+
+August 2022--May 2023
+------------------------
+
+* Vince Gilligan and Peter Gould, *Better Call Saul*
+
+May 2023--October 2023
+------------------------
+
+* Amy Sherman-Palladino, *The Marvelous Mrs. Maisel*
+
+October 2023--present
+------------------------
+
+* David Shore, *House, M. D.*
+
+.. role:: raw-html(raw)
+   :format: html

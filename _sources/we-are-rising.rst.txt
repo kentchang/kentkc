@@ -1,0 +1,22 @@
+
+We Are Rising---
+=================
+
+.. post:: Apr 05, 2021
+   :tags: travel
+
+
+Yesterday we visited `Mount Diablo Grand Loop Trail <https://www.alltrails.com/trail/us/california/mount-diablo-grand-loop>`_, and this is one of the many memorable scenes that nature has to offer---a small patch of California poppies against the aftermath of wildfires. I'll let the picture speak for itself:
+
+.. image:: _static/images/rising.jpeg
+   :alt: A picture taken at Mount Diablo State Park in California. A small patch o California poppy, the state flower, at the center, half burned, withered branches in the foreground.
+
+This is California. We make our mistakes. We fall. And we rise. [#]_ This is us.
+
+|hr|
+
+:raw-html:`<div class="footnotes">`
+
+.. [#] I don't have time to be original, so I am riffing off of a number from `a number in a famed musical <https://genius.com/Leslie-odom-jr-and-original-broadway-cast-of-hamilton-wait-for-it-lyrics>`_.
+
+:raw-html:`</div>`

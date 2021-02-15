@@ -1,0 +1,18 @@
+
+.. _bookmarks:
+
+Bookmarks
+============================
+
+I created this blog mainly for myself. I want to be able to find things I want to revisit later easier. From time to time, I come across useful resources online that I know I will need again in the future (perhaps years from now). I need some place to store those links, and I want to be reminded why I added them in the first place immediately. Favorites and bookmarks in my browser aren't useful enough, because I only have titles. And sometimes the links may just no longer work for whatever reason. This page is for me to put those links and jot down some notes.
+
+Work
+-----
+
+`Tmux cheatsheet <https://tmuxcheatsheet.com/>`_: It's :code:`tmux new -s mysession` and :code:`tmux attach -t mysession`. Don't use :code:`-t` for both. Unix stuff is weird. Deal with it.
+
+https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+https://analyticsindiamag.com/all-pytorch-loss-function/
+
+.. role:: raw-html(raw)
+   :format: html
