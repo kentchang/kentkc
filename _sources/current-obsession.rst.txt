@@ -1,0 +1,14 @@
+
+.. _current-obsession:
+
+Current Obsession
+============================
+
+February 2021--present
+-----------------------
+
+* *This Is Us* (:ref:`this-is-us-quotes`)
+
+
+.. role:: raw-html(raw)
+   :format: html

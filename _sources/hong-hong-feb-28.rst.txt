@@ -1,0 +1,80 @@
+
+Hong Hong, "Feb 28"
+===================
+
+.. post:: Feb 28, 2021
+   :tags: poetry
+
+The February 28th Incident is a major historical event in Taiwan, where numerous were killed, went missing, or otherwise violently suppressed by the authoritarian government in light the civil uprising that first exploded in Taipei on February 28, 1947. A lot about the incident remains unknown, and now it's mostly studied and further investigated in the context of transitional justice for the nation. 
+
+For more background, see:
+
+* Amy B. Wang, "`For decades, no one spoke of Taiwan’s hidden massacre. A new generation is breaking the silence. <https://www.washingtonpost.com/news/worldviews/wp/2017/02/28/for-decades-no-one-spoke-of-taiwans-hidden-massacre-a-new-generation-is-breaking-the-silence/>`_." (2017)
+* James X. Morris, "`The 228 Incident Still Haunts Taiwan <https://thediplomat.com/2019/02/the-228-incident-still-haunts-taiwan/>`_." (2019)
+
+For most Taiwanese, however, this particular day isn't necessarily associated with collective grief or trauma. It's a national holiday, so in people's everyday conversations, more often than not, the date is associated more with a long weekend, when consumerism invariably rears its ugly head. At the same time, people have somewhat come to find the Incident annoying. Prominent political figures often take advantage of, sometimes weaponize, the incident and make speeches on this day. This is the theme of Hong Hong's short poem, "Feb 28," which I attempted a rough translation of below.
+
+Hong Hong, "Feb 28"
+--------------------
+
+*From* The Sanguine Island (2019)---
+
+:raw-html:`<div style="padding-left: 2em">`
+
+This month |br|
+is shorter than the rest |br|
+by two or three days. |br|
+
+This day |br| 
+reaches its destination |br|
+earlier than in other months. |br|
+
+This day |br|
+many people |br|
+see an early dark night. |br|
+But this day ends |br|
+
+abruptly |br|
+by gunshots |br|
+by sobs |br| 
+buried under ashes |br|
+with pitch atop. |br|
+
+Every year this day |br|
+someone would always apologize |br|
+for whom, they never know. |br|
+
+Every year |br|
+people celebrate this day |br|
+walking on the pitch road |br|
+to a movie, |br|
+to a restaurant recommended on PTT, [#]_ |br|
+to get in line for new in clothes. |br|
+
+Statues are covered by burlap bags. |br|
+No one knows |br|
+if he repents or snickers. |br|
+
+Many years ago, this day |br|
+a 78 rpm record |br|
+once sang— |br|
+who remembers, even vaguely?—|br|
+
+:raw-html:`<div style="padding-left: 1em;">`
+
+*Night as day, day as night* |br|
+*Living in the dark* |br|
+*How will we see the light* [#]_ |br|
+
+:raw-html:`</div>`
+
+:raw-html:`</div>`
+
+|hr|
+
+:raw-html:`<div class="footnotes">`
+
+.. [#] A telnet-based forum that's similar to Reddit in Taiwan.
+.. [#] Lyrics to a popular Soutehrn Min song in the Japanese-rule era.
+
+:raw-html:`</div>`

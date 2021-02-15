@@ -1,0 +1,24 @@
+
+COVID and *This Is Us*
+=======================
+
+.. post:: Apr 15, 2021
+   :tags: TV
+
+*This Is Us* has been the solace and stimulation of my emotional and intellectual selves since my timely discovery of the series about a year ago, when I was preparing to move out of my Pittsburgh apartment to California. It took over my :ref:`current-obsession` spot from *Frozen II* (December 2019--February 2021) in February.
+
+Season 5 is the first one I actually watch as new episodes come out, and it coincides with an unusual and turbulent time in my life as well as many others'. I am once again convinced that literature remains one of the best ways to model human experiences. Not for its capacity to imitate, but to teach: for its potentials to lead us to reflect on what it means to be, and to be with. 
+
+The latest season’s representation of :small-caps:`covid`, that the virus is not just pervasive in *our* world but also *their* world, can seem off-putting for many; as we know, realism sans defamiliarization doesn’t work well.  But I’m pleasantly struck by the contemporaneity of the season. All characters are looking for advice, looking for ways out. And they are able to take steps to change not just because they are safe, have quarantined, received their shots, etc. But because they have realized that, beyond the external conditions of the pandemic, life is unhistoric (a la Nietzsche), nonlinear.
+
+Now, of all ages, is a time when we think about the future, the post-pandemic one, and we constantly get caught up in projections and timelines. And yet, this season has reminded me of one thing:[#]_ there is no future---not in the queer Edelman sense---but the future is now, just as the past is now. This is not repeating the cliché of *carpe diem*; it's an acute recognition that it is impractical to wishfully project hope and optimism onto that which is yet to come. Because, when it does come, we may just find out that our past, all the good and bad, is still with us. It still shapes who we are and what we do; it can still be lifting our spirits, or throwing us back into the dark. So perhaps, then, we shall remember: now is the time to live our future, not just keep looking forward. Now is the time to change and make amends. And now is the time to take care of ourselves.
+
+It's not easy, to be sure. It could take more than years to learn how to live *now*. But we are not in a rush, as Miguel says, "one day at a time, and then another, and the another" (V.i. "Forty, Part One / Forty, Part Two").
+
+|hr|
+
+:raw-html:`<div class="footnotes">`
+
+.. [#] And of course, how there's everything outside of the text. Wake me up when your NLP models can parse "you two were my Moon" (V.xi. "One Small Step . . .") and infer the pragmatics or affects of "Would it be all right if I just keep listening for a while?" (V.xii. "Both Things Can Be True").
+
+:raw-html:`</div>`

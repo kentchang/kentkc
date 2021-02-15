@@ -1,0 +1,32 @@
+
+.. _this-is-us-quotes:
+
+*This Is Us* Quotes
+============================
+
+:raw-html:`<style> ul.simple > li {margin-bottom: 0.8rem;}</style>`
+
+Some of my favorite quotes from the show; reproduced here so I can revist them easily.
+
+Season II
+----------
+
+* "It’s better to have loved and lost, surely, but try not to lose it at all." |br| ---:small-caps:`William Hill`. II.i. "A Father's Advice"
+* "Those of you who know me know I'm big on control. It's taken me 37 years to accept the fact that there's absolutely zero point in trying to control the future. 'Cause nobody knows where we'll be. Not even a year from now. But . . . what we can control are the people we choose. Choosing the people is the closest we come to controlling our destiny." |br| ---:small-caps:`Randall Pearson`. II.xviii. "The Wedding"
+
+Season III
+------------
+
+* "Well, we're officially out of Pittsburgh. Only 2,423 more miles till we get to Los Angeles." |br| "So, almost there." |br| "Yeah, exactly." |br| "My mom says I'm nuts for doing this with a guy I barely know." |br| "We've known each other a whole week." |br| ---:small-caps:`Jack` *and* :small-caps:`Rebecca Pearson`. III.vii. "Sometimes"
+*  "My father once told me that I was gonna be a great man. And my whole life, in the back of my mind, I always wanted to be one. I'm starting to think it might be harder to be a good man than a great one. [. . .]" |br| "Hey, you know, I give a lot of death-bed advice. Comes with the job, I guess. Death-bed advice, that's a gig. Act in a way that will make you smile when you're old and gray and lying under a pale, pink nursing-home blanket, thinking about . . . the life you lived. You do that---you'll be the man your father wanted."|br| ---:small-caps:`Reverend Hawley` *and* :small-caps:`Randall Pearson`. III.x. "The Last Seven Weeks"
+* "The single most extraordinary thing I've ever done with my life is falling in love with you. I've never been seen so completely, loved so passionately, protected so fiercely. Honestly Randall, when I look in your eyes, I see my home. I see eternity. And no matter what may come our way, I promise I'll always choose you." |br| ---:small-caps:`Beth Clarke` (*almost* :small-caps:`Beth Pearson`). III.xvii. "R & B"
+* "Most people don’t win, Randall, but you did---you won the lottery. You won it twice. Once when you got adopted, and again when you met Beth. I don’t know what’s going on between you two, but you got to get it together. You owe it to the world that let you win the lottery twice." |br| ---:small-caps:`Deja Pearson`. III.xviii. "Her"
+
+Season V
+---------
+
+* "I was terrified of being like my dad, and you're terrified of not being like yours. We both wasted a lot of time being quietly terrified. Close your eyes. Decide what you want. And then you go and get it, son." |br| ---:small-caps:`Jack Pearson` *to* :small-caps:`Kevin Pearson`; V.ix. "The Ride"
+* “You were thrown quite a curveball and [. . .] really rose to the occasion [. . .]. So if you ever feel like you can’t handle something, maybe just think about what you’ve already done.” |br| ---:small-caps:`Rebecca Pearson`. V.x. “I’ve Got This”
+
+.. role:: raw-html(raw)
+   :format: html

@@ -7,7 +7,7 @@ html {
     
 body {
   font-family: equity_text_a, serif;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   font-variant-numeric: oldstyle-nums;
   line-height: 1.4em;
   color: rgba(0, 0, 0, 0.87);
@@ -56,6 +56,18 @@ a:hover {
   border-bottom: 1px dotted #666;
 }
 
+div.document {
+  width: 870px;
+}
+
+div.sphinxsidebar {
+  width: 220px;
+  padding-top: 3em;
+}
+div.bodywrapper {
+  margin: 0 0 0 250px;
+}
+
 div.logo {
   text-align: center;
   width: 100%;
@@ -82,6 +94,77 @@ img.logo {
 }
 .small-caps {
   font-family: equity_caps_a;
+}
+.all-caps {
+  text-transform: lowercase;
+  font-family: equity_caps_a;
+}
+.dialogue-container p {
+  margin: 0;
+  padding-left: 1.5em ;
+  text-indent: -1.5em ;
+}
+
+
+.literary-attribution {
+  display: block;
+  font-size: 1.05rem;
+  line-height: 1.35rem;
+}
+.literary-title {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 1.165rem;
+  border-top: 3px solid #333 ;
+  border-bottom: 1px solid #666;
+}
+
+.literary-date {
+  display: flex;
+  align-items: center;
+  text-align: right;
+}
+
+.literary-date::before {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #333;
+}
+.literary-date::after {
+  content: '■';
+  font-size: 2rem;
+}
+
+.literary-date:not(:empty)::before {
+  margin-right: .25em;
+}
+
+.literary-date:not(:empty)::after {
+  margin-left: .25em;
+}
+
+blockquote {
+  padding: 0;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 1.5em;
+  margin-inline-end: 1.5em;
+}
+
+blockquote p {
+  margin: inherit;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+blockquote.multi p {
+  margin: inherit;
+  margin-block-start: 0px;
+  margin-block-end: 0.6rem !important;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
 
 div.sphinxsidebarwrapper h1.logo {
@@ -161,7 +244,8 @@ div.sphinxsidebar input {
 
 .excerpt-featured .excerpt-title {
   font-family: Roslindale;
-  font-size: 240%;
+  font-size: 265%;
+  line-height: 1.18;
 }
 
 
@@ -170,6 +254,10 @@ div.sphinxsidebar input {
   font-size: 80%;
 } */
 
+.excerpt-date {
+  margin: 0.5em 0;
+}
+
 .excerpt-tags {
   margin-bottom: 1.5em;
 }
@@ -177,8 +265,11 @@ div.sphinxsidebar input {
   font-family: CooperHewitt;
   font-weight: 700;
   margin-bottom: -2px;
+  padding-top: 7px;
 }
-
+.ui.mini.label, .ui.mini.labels .label {
+  font-size: 0.75rem;
+}
 
 article h1 {
   font-size: 3rem;
@@ -201,10 +292,32 @@ article h2 {
   text-transform: lowercase;
 }
 
-
-
 .footnotes {
-  /* font-size: 12px; */
+  font-size: 85%;
+}
+dl.footnote > dt, dl.citation > dt {
+  float: none;
+  margin: 0;
+}
+.footnotes dl {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  width: 100%;      /* set the container width*/
+  overflow: visible;
+}
+.footnotes dl dt {
+  flex: 0 0 6%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: right;
+}
+.footnotes dl dd {
+  flex:0 0 92%;
+  margin-left: auto;
+  text-align: left;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .oneindent {
@@ -217,6 +330,27 @@ article h2 {
   display:inline-block; 
   text-indent: -100%;
   width: 3em;
+}
+
+.elip:before {
+  content:' *** ';
+  letter-spacing: 5px;
+}
+
+.elip {
+  width: 38px;
+  display: inline-block;
+}
+
+p.sep {
+  /* display: block;  */
+  text-align: center; 
+  letter-spacing: 2em;
+  padding-left: 10%;
+}
+
+span.sep:after {
+  content: '*';
 }
 
 div.prepost {
@@ -252,6 +386,12 @@ body.pushable {
 }
 
 @media screen and (max-width: 875px) {
+  div.document, div.footer { 
+    width: 100%;
+  }
+  div.footer {
+    margin-right: 1em;
+  }
   .ui.vertical.menu {
     width: 30rem;
   }
@@ -298,13 +438,16 @@ body.pushable {
     letter-spacing: 0.12em;
     text-transform: uppercase;
     font-weight: 400;
-    padding-top: 2px;
+    padding-top: 6px;
   }
   .toggle {
-    position: absolute;
+    /* position: absolute;
     top: 10px;
-    right: 10px;
+    right: 10px; */
     display: block;
+    position: relative;
+    text-align: right;
+    margin: 0em 2em 1.5em 1em;
   }
   .close {
     text-align: center;

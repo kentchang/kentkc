@@ -26,3 +26,7 @@
    :hidden:
 
    about.rst
+   this-is-us-quotes.rst
+   current-obsession.rst
+   bookmarks.rst
+   challenges.rst
